@@ -4,37 +4,11 @@
   
   
   <entry>
-    <title>PY</title>
-    <link href="/2022/04/01/PY/"/>
-    <url>/2022/04/01/PY/</url>
+    <title>?1</title>
+    <link href="/2022/04/01/1/"/>
+    <url>/2022/04/01/1/</url>
     
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="/2022/04/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <url>/2022/04/01/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    
-    <content type="html"><![CDATA[<src img=""><h1><p>markdown</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1><h6 id="-1"><a href="#-1" class="headerlink" title=""></a></h6><h2 id="123123"><a href="#123123" class="headerlink" title="123123"></a>123123</h2><h1 id="123132"><a href="#123132" class="headerlink" title="123132"></a>123132<img src="C:\Users\HP\Desktop\334.jpg" alt="334"></h1></br><hr>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/03/31/hello-world/"/>
-    <url>/2022/03/31/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br></pre></div></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><h4 id="4"><a href="#4" class="headerlink" title="4"></a>4</h4><h5 id="5"><a href="#5" class="headerlink" title="5"></a>5</h5><h6 id="6"><a href="#6" class="headerlink" title="6"></a>6</h6><p><em><strong>写法测试</strong></em></p><p><strong>text</strong></p><p><u>  家里养的花自杀了，遗书写道：一生不愁吃穿，唯独缺少阳光和爱。——周国平《爱与孤独</u></p><ul><li>一个人总是可以善待他毫不在意的人。——奥斯卡·王尔德《夜莺与玫瑰》</li></ul><blockquote><p>那些听不见音乐的人，都以为那些跳舞的人疯了——亨利·帕格森《笑的研究》</p></blockquote><blockquote><blockquote><p>奇怪的动物都被保护起来，奇怪的人却遭受排挤。——伊坂幸福太郎《阳光劫匪》             </p></blockquote></blockquote><blockquote><blockquote><blockquote><p>至于写什么还没想好，测试就这样吧，请你☁吃小龙溪a🦞</p></blockquote></blockquote></blockquote><p><img src="C:\Users\HP\Desktop\334.jpg" alt="334"></p><p>bye</p>]]></content>
     
     
     
