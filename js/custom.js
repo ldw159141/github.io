@@ -1,26 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>#subtitle {
-    background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    -webkit-animation: Gradient 10s ease infinite;
-    -moz-animation: Gradient 10s ease infinite;
-    animation: Gradient 10s ease infinite;
-    -o-user-select: none;
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-}
-
-#subtitle:before {
-    background-color: rgba(0, 0, 0, 0);
-}
-
-
-//运行时间bynote.cn
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>//运行时间bynote.cn
 var now = new Date(); 
 function createtime() { 
     var grt= new Date("4/4/2022 12:31:00");//在此处修改你的建站时间，格式：月/日/年 时:分:秒
