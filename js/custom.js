@@ -1,7 +1,6 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>//运行时间bynote.cn
-var now = new Date(); 
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>var now = new Date(); 
 function createtime() { 
-    var grt= new Date("4/4/2022 12:31:00");//在此处修改你的建站时间，格式：月/日/年 时:分:秒
+    var grt= new Date("4/4/2022 12:31:00");
     now.setTime(now.getTime()+250); 
     days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
     hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
