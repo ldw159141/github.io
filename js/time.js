@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>var now = new Date(); 
+var now = new Date(); 
 function createtime() { 
     var grt= new Date("4/4/2022 12:31:00");
     now.setTime(now.getTime()+250); 
