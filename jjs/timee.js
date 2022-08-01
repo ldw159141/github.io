@@ -1,5 +1,3 @@
-
-<script>
     function secondToDate(second) {
         if (!second) {
             return 0;
@@ -25,8 +23,8 @@
             time[4] = second;
         }
         return time;
-    }</script>
-<script type="text/javascript" language="javascript">
+    }
+
     function setTime() {
         var create_time = Math.round(new Date(Date.UTC(2017, 01, 23, 11, 42, 23)).getTime() / 1000);
         var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
@@ -36,4 +34,3 @@
                 + '秒';
         document.getElementById("htmer_time").innerHTML = currentTimeHtml;
     }    setInterval(setTime, 1000);
-</script>
